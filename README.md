@@ -1,6 +1,7 @@
 ### Hi there 👋
 Estudiante de Ingeniería en Sistemas Informaticos, con conocimientos en:
 - Lenguajes: Java, Python, PHP, C#, Javascript, CSS, lenguaje de marcado HTML
+- Frameworks: ReactJs, AngularJs
 
 <!--
 **Nancitook/Nancitook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
